@@ -95,7 +95,9 @@ padding: 2rem;
    outline:none;
 
 }
-
+input:focus {
+    outline: none;
+}
 .length-container{
 display: flex;
 justify-content: space-between;
