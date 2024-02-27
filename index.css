@@ -92,7 +92,6 @@ h1{
     border-bottom: 0.35rem solid var(--lt-violet2);
     border-radius: 1rem;
 padding: 2rem;
-   outline:none;
 
 }
 input:focus {
